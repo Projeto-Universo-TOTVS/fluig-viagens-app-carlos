@@ -12,7 +12,7 @@ function createDataset(fields, constraints, sortFields) {
 
   var ds = DatasetBuilder.newDataset();
   var rows = [
-    // ["BRA", "Brasil", "BR"],
+    ["BRA", "Brasil", "BR"],
     ["USA", "Estados Unidos", "US"],
     ["ARG", "Argentina", "AR"],
     ["CHL", "Chile", "CL"],
